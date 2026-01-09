@@ -1,0 +1,262 @@
+{
+  "i18n_app_description": {
+    "message": "让知识在网页上生根发芽，为您的浏览体验增添无限可能"
+  },
+  "i18n_cmd_insert_note": {
+    "message": "插入便签"
+  },
+  "i18n_theme_light": {
+    "message": "浅色"
+  },
+  "i18n_theme_dark": {
+    "message": "深色"
+  },
+  "i18n_theme_toggle": {
+    "message": "切换主题"
+  },
+  "i18n_theme_current": {
+    "message": "当前主题: $THEME$",
+    "placeholders": {
+      "theme": {
+        "content": "$1",
+        "example": "浅色"
+      }
+    }
+  },
+  "i18n_language_switcher_label": {
+    "message": "语言"
+  },
+  "i18n_language_switch_to_zh": {
+    "message": "切换到中文"
+  },
+  "i18n_language_switch_to_en": {
+    "message": "切换到英文"
+  },
+  "i18n_nav_back": {
+    "message": "返回"
+  },
+  "i18n_nav_home": {
+    "message": "首页"
+  },
+  "i18n_nav_toggle_theme": {
+    "message": "切换主题"
+  },
+  "i18n_nav_theme_light_mode": {
+    "message": "浅色模式"
+  },
+  "i18n_nav_theme_dark_mode": {
+    "message": "深色模式"
+  },
+  "i18n_options_app_title": {
+    "message": "叶纸便签"
+  },
+  "i18n_options_app_description": {
+    "message": "让知识在网页上生根发芽，为您的浏览体验增添无限可能"
+  },
+  "i18n_options_app_install_free": {
+    "message": "免费安装"
+  },
+  "i18n_options_app_view_demo": {
+    "message": "查看演示"
+  },
+  "i18n_options_app_why_choose": {
+    "message": "🚀 为什么选择 Leafy Note"
+  },
+  "i18n_options_app_why_description": {
+    "message": "在任意网页上创建智能便签，让学习和工作更高效"
+  },
+  "i18n_options_app_privacy_policy": {
+    "message": "隐私政策"
+  },
+  "i18n_options_app_terms_of_service": {
+    "message": "使用条款"
+  },
+  "i18n_options_app_contact_us": {
+    "message": "联系我们"
+  },
+  "i18n_options_config_smart_mount_system": {
+    "message": "智能挂载系统"
+  },
+  "i18n_options_config_flexible_isolation": {
+    "message": "灵活隔离，打通报纸"
+  },
+  "i18n_options_config_smart_mount_description": {
+    "message": "🎯 智能挂载，场景随心。五种模式灵活切换，让便签完美融入每一个网页"
+  },
+  "i18n_options_config_free_layout_system": {
+    "message": "自由布局系统"
+  },
+  "i18n_options_config_free_layout_desc": {
+    "message": "支持灵活的尺寸调整和位置拖拽"
+  },
+  "i18n_options_config_free_positioning": {
+    "message": "随心所欲，完美定位"
+  },
+  "i18n_options_config_size_freedom": {
+    "message": "尺寸自由"
+  },
+  "i18n_options_config_size_freedom_desc": {
+    "message": "从迷你便签到全屏画布，任意缩放调整"
+  },
+  "i18n_options_config_position_drag": {
+    "message": "位置拖拽"
+  },
+  "i18n_options_config_position_drag_desc": {
+    "message": "鼠标拖拽，精准定位到理想位置"
+  },
+  "i18n_options_config_personalized_customization": {
+    "message": "个性化定制"
+  },
+  "i18n_options_config_personalized_customization_desc": {
+    "message": "打造独属于您的操作界面布局"
+  },
+  "i18n_options_config_free_layout_master": {
+    "message": "🎨 自由布局，尽在掌握。拖拽调整大小和位置，创造最适合您的界面体验"
+  },
+  "i18n_options_config_multi_render_engine": {
+    "message": "多元渲染引擎"
+  },
+  "i18n_options_config_multi_render_engine_desc": {
+    "message": "支持代码、表格、图表、媒体等多种内容"
+  },
+  "i18n_options_config_rich_content": {
+    "message": "内容形式，丰富多彩"
+  },
+  "i18n_options_config_table_render": {
+    "message": "表格"
+  },
+  "i18n_options_config_table_render_desc": {
+    "message": "数据对比清晰明了"
+  },
+  "i18n_options_config_chart_render": {
+    "message": "图表"
+  },
+  "i18n_options_config_chart_render_desc": {
+    "message": "可视化数据展示"
+  },
+  "i18n_options_config_formula_render": {
+    "message": "公式"
+  },
+  "i18n_options_config_formula_render_desc": {
+    "message": "LaTeX数学表达式"
+  },
+  "i18n_options_config_code_render": {
+    "message": "代码"
+  },
+  "i18n_options_config_code_render_desc": {
+    "message": "语法高亮展示"
+  },
+  "i18n_options_config_media_render": {
+    "message": "媒体"
+  },
+  "i18n_options_config_media_render_desc": {
+    "message": "图片视频嵌入"
+  },
+  "i18n_options_config_markdown_render": {
+    "message": "Markdown"
+  },
+  "i18n_options_config_markdown_render_desc": {
+    "message": "富文本格式支持"
+  },
+  "i18n_options_config_multi_render_footer": {
+    "message": "🎨 多元渲染，创意无限。让每一个想法都找到最完美的展示形式"
+  },
+  "i18n_options_config_render_demo": {
+    "message": "渲染演示"
+  },
+  "i18n_options_browser_restart_demo": {
+    "message": "重新演示"
+  },
+  "i18n_pendant_mode_global_label": {
+    "message": "全局模式"
+  },
+  "i18n_pendant_mode_global_description": {
+    "message": "适用于所有网站和页面，让便签常驻页面随时可用"
+  },
+  "i18n_pendant_mode_origin_label": {
+    "message": "域名模式"
+  },
+  "i18n_pendant_mode_origin_description": {
+    "message": "仅在指定域名及其子域名下显示，适用于网站级别的便签管理"
+  },
+  "i18n_pendant_mode_exact_label": {
+    "message": "精准 URL"
+  },
+  "i18n_pendant_mode_exact_description": {
+    "message": "仅在完全匹配指定URL时显示，确保精确的便签管理"
+  },
+  "i18n_pendant_mode_prefix_label": {
+    "message": "前缀 URL"
+  },
+  "i18n_pendant_mode_prefix_description": {
+    "message": "匹配以指定前缀开头的URL，支持自定义前缀的便签管理"
+  },
+  "i18n_pendant_mode_prefix_placeholder": {
+    "message": "https://example.com/path"
+  },
+  "i18n_pendant_mode_pattern_label": {
+    "message": "正则 URL"
+  },
+  "i18n_pendant_mode_pattern_description": {
+    "message": "使用正则表达式进行高级URL匹配，支持复杂逻辑的便签管理"
+  },
+  "i18n_pendant_mode_pattern_placeholder": {
+    "message": "^https://.*\\.example\\.com"
+  },
+  "i18n_login_welcome_back": {
+    "message": "欢迎回来"
+  },
+  "i18n_login_choose_method": {
+    "message": "选择您的登录方式"
+  },
+  "i18n_login_account_login": {
+    "message": "账号登录"
+  },
+  "i18n_login_wechat_login": {
+    "message": "微信登录"
+  },
+  "i18n_login_refresh_qr": {
+    "message": "刷新二维码"
+  },
+  "i18n_login_updating": {
+    "message": "更新中..."
+  },
+  "i18n_login_scan_qr": {
+    "message": "请使用微信扫描上方二维码登录"
+  },
+  "i18n_login_loading": {
+    "message": "加载中..."
+  },
+  "i18n_login_username": {
+    "message": "用户名"
+  },
+  "i18n_login_username_placeholder": {
+    "message": "请输入用户名"
+  },
+  "i18n_login_password": {
+    "message": "密码"
+  },
+  "i18n_login_password_placeholder": {
+    "message": "请输入密码"
+  },
+  "i18n_login_logging_in": {
+    "message": "登录中..."
+  },
+  "i18n_login_login_button": {
+    "message": "登录"
+  },
+  "i18n_login_agree_to": {
+    "message": "继续即表示您同意我们的"
+  },
+  "i18n_login_terms_of_service": {
+    "message": "服务条款"
+  },
+  "i18n_login_privacy_policy": {
+    "message": "隐私政策"
+  },
+  "i18n_login_and": {
+    "message": "和"
+  }
+}
+
+

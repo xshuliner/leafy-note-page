@@ -1,0 +1,262 @@
+{
+  "i18n_app_description": {
+    "message": "Let knowledge take root on the web, adding infinite possibilities to your browsing experience"
+  },
+  "i18n_cmd_insert_note": {
+    "message": "Insert note"
+  },
+  "i18n_theme_light": {
+    "message": "Light"
+  },
+  "i18n_theme_dark": {
+    "message": "Dark"
+  },
+  "i18n_theme_toggle": {
+    "message": "Toggle theme"
+  },
+  "i18n_theme_current": {
+    "message": "Current theme: $THEME$",
+    "placeholders": {
+      "theme": {
+        "content": "$1",
+        "example": "Light"
+      }
+    }
+  },
+  "i18n_language_switcher_label": {
+    "message": "Language"
+  },
+  "i18n_language_switch_to_zh": {
+    "message": "Switch to Chinese"
+  },
+  "i18n_language_switch_to_en": {
+    "message": "Switch to English"
+  },
+  "i18n_nav_back": {
+    "message": "Back"
+  },
+  "i18n_nav_home": {
+    "message": "Home"
+  },
+  "i18n_nav_toggle_theme": {
+    "message": "Toggle theme"
+  },
+  "i18n_nav_theme_light_mode": {
+    "message": "Light mode"
+  },
+  "i18n_nav_theme_dark_mode": {
+    "message": "Dark mode"
+  },
+  "i18n_options_app_title": {
+    "message": "Leafy Note"
+  },
+  "i18n_options_app_description": {
+    "message": "Let knowledge take root on the web, adding infinite possibilities to your browsing experience"
+  },
+  "i18n_options_app_install_free": {
+    "message": "Free Install"
+  },
+  "i18n_options_app_view_demo": {
+    "message": "View Demo"
+  },
+  "i18n_options_app_why_choose": {
+    "message": "🚀 Why Choose Leafy Note"
+  },
+  "i18n_options_app_why_description": {
+    "message": "Create smart notes on any webpage to make learning and work more efficient"
+  },
+  "i18n_options_app_privacy_policy": {
+    "message": "Privacy Policy"
+  },
+  "i18n_options_app_terms_of_service": {
+    "message": "Terms of Service"
+  },
+  "i18n_options_app_contact_us": {
+    "message": "Contact Us"
+  },
+  "i18n_options_config_smart_mount_system": {
+    "message": "Smart Mount System"
+  },
+  "i18n_options_config_flexible_isolation": {
+    "message": "Flexible Isolation, Breaking Through Paper Barriers"
+  },
+  "i18n_options_config_smart_mount_description": {
+    "message": "🎯 Smart mounting, scenarios as you wish_ Five modes for flexible switching, allowing notes to perfectly integrate into every webpage"
+  },
+  "i18n_options_config_free_layout_system": {
+    "message": "Free Layout System"
+  },
+  "i18n_options_config_free_layout_desc": {
+    "message": "Supports flexible size adjustment and position dragging"
+  },
+  "i18n_options_config_free_positioning": {
+    "message": "Follow your heart, perfect positioning"
+  },
+  "i18n_options_config_size_freedom": {
+    "message": "Size Freedom"
+  },
+  "i18n_options_config_size_freedom_desc": {
+    "message": "From mini notes to full-screen canvas, arbitrary scaling adjustment"
+  },
+  "i18n_options_config_position_drag": {
+    "message": "Position Drag"
+  },
+  "i18n_options_config_position_drag_desc": {
+    "message": "Mouse drag, precise positioning to the ideal location"
+  },
+  "i18n_options_config_personalized_customization": {
+    "message": "Personalized Customization"
+  },
+  "i18n_options_config_personalized_customization_desc": {
+    "message": "Create an operation interface layout unique to you"
+  },
+  "i18n_options_config_free_layout_master": {
+    "message": "🎨 Free layout, all in control_ Drag to adjust size and position, create the interface experience most suitable for you"
+  },
+  "i18n_options_config_multi_render_engine": {
+    "message": "Multi-Render Engine"
+  },
+  "i18n_options_config_multi_render_engine_desc": {
+    "message": "Supports code, tables, charts, media and other content types"
+  },
+  "i18n_options_config_rich_content": {
+    "message": "Rich content forms, colorful and diverse"
+  },
+  "i18n_options_config_table_render": {
+    "message": "Table"
+  },
+  "i18n_options_config_table_render_desc": {
+    "message": "Data comparison clear and clear"
+  },
+  "i18n_options_config_chart_render": {
+    "message": "Chart"
+  },
+  "i18n_options_config_chart_render_desc": {
+    "message": "Visual data display"
+  },
+  "i18n_options_config_formula_render": {
+    "message": "Formula"
+  },
+  "i18n_options_config_formula_render_desc": {
+    "message": "LaTeX mathematical expressions"
+  },
+  "i18n_options_config_code_render": {
+    "message": "Code"
+  },
+  "i18n_options_config_code_render_desc": {
+    "message": "Syntax highlighting display"
+  },
+  "i18n_options_config_media_render": {
+    "message": "Media"
+  },
+  "i18n_options_config_media_render_desc": {
+    "message": "Image and video embedding"
+  },
+  "i18n_options_config_markdown_render": {
+    "message": "Markdown"
+  },
+  "i18n_options_config_markdown_render_desc": {
+    "message": "Rich text format support"
+  },
+  "i18n_options_config_multi_render_footer": {
+    "message": "🎨 Multi-rendering, unlimited creativity_ Let every idea find the most perfect display form"
+  },
+  "i18n_options_config_render_demo": {
+    "message": "Render Demo"
+  },
+  "i18n_options_browser_restart_demo": {
+    "message": "Restart Demo"
+  },
+  "i18n_pendant_mode_global_label": {
+    "message": "Global Mode"
+  },
+  "i18n_pendant_mode_global_description": {
+    "message": "Applicable to all websites and pages, keeping notes permanently available on the page"
+  },
+  "i18n_pendant_mode_origin_label": {
+    "message": "Domain Mode"
+  },
+  "i18n_pendant_mode_origin_description": {
+    "message": "Display only on specified domain and its subdomains, suitable for website-level note management"
+  },
+  "i18n_pendant_mode_exact_label": {
+    "message": "Exact URL"
+  },
+  "i18n_pendant_mode_exact_description": {
+    "message": "Display only when exactly matching the specified URL, ensuring precise note management"
+  },
+  "i18n_pendant_mode_prefix_label": {
+    "message": "Prefix URL"
+  },
+  "i18n_pendant_mode_prefix_description": {
+    "message": "Match URLs starting with the specified prefix, supporting custom prefix note management"
+  },
+  "i18n_pendant_mode_prefix_placeholder": {
+    "message": "https://example_com/path"
+  },
+  "i18n_pendant_mode_pattern_label": {
+    "message": "Regex URL"
+  },
+  "i18n_pendant_mode_pattern_description": {
+    "message": "Use regular expressions for advanced URL matching, supporting complex logic note management"
+  },
+  "i18n_pendant_mode_pattern_placeholder": {
+    "message": "^https://_*\\_example\\_com"
+  },
+  "i18n_login_welcome_back": {
+    "message": "Welcome back"
+  },
+  "i18n_login_choose_method": {
+    "message": "Choose your login method"
+  },
+  "i18n_login_account_login": {
+    "message": "Account login"
+  },
+  "i18n_login_wechat_login": {
+    "message": "WeChat login"
+  },
+  "i18n_login_refresh_qr": {
+    "message": "Refresh QR code"
+  },
+  "i18n_login_updating": {
+    "message": "Updating..."
+  },
+  "i18n_login_scan_qr": {
+    "message": "Please use WeChat to scan the QR code above to login"
+  },
+  "i18n_login_loading": {
+    "message": "Loading..."
+  },
+  "i18n_login_username": {
+    "message": "Username"
+  },
+  "i18n_login_username_placeholder": {
+    "message": "Please enter username"
+  },
+  "i18n_login_password": {
+    "message": "Password"
+  },
+  "i18n_login_password_placeholder": {
+    "message": "Please enter password"
+  },
+  "i18n_login_logging_in": {
+    "message": "Logging in..."
+  },
+  "i18n_login_login_button": {
+    "message": "Login"
+  },
+  "i18n_login_agree_to": {
+    "message": "By continuing, you agree to our"
+  },
+  "i18n_login_terms_of_service": {
+    "message": "Terms of Service"
+  },
+  "i18n_login_privacy_policy": {
+    "message": "Privacy Policy"
+  },
+  "i18n_login_and": {
+    "message": "and"
+  }
+}
+
+
