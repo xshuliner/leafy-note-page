@@ -1,4 +1,10 @@
 {
+  "i18n_app_name": {
+    "message": "Leafy Note"
+  },
+  "i18n_app_full_name": {
+    "message": "叶纸便签 - Leafy Note | Web Page Note & Journal & Annotations 🍃"
+  },
   "i18n_app_description": {
     "message": "Let knowledge take root on the web, adding infinite possibilities to your browsing experience"
   },
@@ -46,12 +52,6 @@
   },
   "i18n_nav_theme_dark_mode": {
     "message": "Dark mode"
-  },
-  "i18n_options_app_title": {
-    "message": "Leafy Note"
-  },
-  "i18n_options_app_description": {
-    "message": "Let knowledge take root on the web, adding infinite possibilities to your browsing experience"
   },
   "i18n_options_app_install_free": {
     "message": "Free Install"
@@ -203,6 +203,21 @@
   "i18n_pendant_mode_pattern_placeholder": {
     "message": "^https://_*\\_example\\_com"
   },
+  "i18n_pendant_background_design_alt": {
+    "message": "Background design"
+  },
+  "i18n_pendant_switch_mode_aria": {
+    "message": "Switch mode"
+  },
+  "i18n_pendant_close_button_aria": {
+    "message": "Close"
+  },
+  "i18n_dropmenu_add_button": {
+    "message": "Add"
+  },
+  "i18n_dropmenu_input_placeholder": {
+    "message": "Please enter..."
+  },
   "i18n_login_welcome_back": {
     "message": "Welcome back"
   },
@@ -247,6 +262,12 @@
   },
   "i18n_login_agree_to": {
     "message": "By continuing, you agree to our"
+  },
+  "i18n_note_management": {
+    "message": "Note Management"
+  },
+  "i18n_note_no_notes": {
+    "message": "No notes yet"
   },
   "i18n_login_terms_of_service": {
     "message": "Terms of Service"

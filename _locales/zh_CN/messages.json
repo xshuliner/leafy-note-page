@@ -1,4 +1,10 @@
 {
+  "i18n_app_name": {
+    "message": "叶纸便签"
+  },
+  "i18n_app_full_name": {
+    "message": "叶纸便签 - Leafy Note | 网页笔记 & 日记 & 批注 🍃"
+  },
   "i18n_app_description": {
     "message": "让知识在网页上生根发芽，为您的浏览体验增添无限可能"
   },
@@ -46,12 +52,6 @@
   },
   "i18n_nav_theme_dark_mode": {
     "message": "深色模式"
-  },
-  "i18n_options_app_title": {
-    "message": "叶纸便签"
-  },
-  "i18n_options_app_description": {
-    "message": "让知识在网页上生根发芽，为您的浏览体验增添无限可能"
   },
   "i18n_options_app_install_free": {
     "message": "免费安装"
@@ -203,6 +203,21 @@
   "i18n_pendant_mode_pattern_placeholder": {
     "message": "^https://.*\\.example\\.com"
   },
+  "i18n_pendant_background_design_alt": {
+    "message": "背景设计"
+  },
+  "i18n_pendant_switch_mode_aria": {
+    "message": "切换模式"
+  },
+  "i18n_pendant_close_button_aria": {
+    "message": "关闭"
+  },
+  "i18n_dropmenu_add_button": {
+    "message": "添加"
+  },
+  "i18n_dropmenu_input_placeholder": {
+    "message": "请输入..."
+  },
   "i18n_login_welcome_back": {
     "message": "欢迎回来"
   },
@@ -247,6 +262,12 @@
   },
   "i18n_login_agree_to": {
     "message": "继续即表示您同意我们的"
+  },
+  "i18n_note_management": {
+    "message": "便签管理"
+  },
+  "i18n_note_no_notes": {
+    "message": "暂无便签"
   },
   "i18n_login_terms_of_service": {
     "message": "服务条款"
